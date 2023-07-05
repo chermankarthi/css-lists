@@ -1,0 +1,35 @@
+.a{
+list-style-type:none;
+}
+
+.b{
+list-style-type:circle;
+}
+
+.c{
+list-style-image:url(images/image.png);
+}
+
+.e{
+list-style-type:lower-alpha;
+}
+
+.f{
+list-style-type:upper-roman;
+}
+
+.g{
+list-style-position:inside;
+}
+
+.h{
+list-style-position:outside;
+}
+
+.i{
+list-style:square outside url("images/image.png");
+}
+
+.j{
+list-style:square inside url("images/image.png");
+}
